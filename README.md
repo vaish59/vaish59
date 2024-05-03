@@ -1,4 +1,8 @@
-🔭 I’m intrested and passionate about Data Science field.
+Hi 👋, I'm Jevale Vaishnavi
+A passionate Data Scientist from India.
+
+
+
 
 🌱 I’m currently learning machine learning,deep learning and NLP
 
