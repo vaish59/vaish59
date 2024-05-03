@@ -1,4 +1,4 @@
-Hi 👋, I'm Jevale Vaishnavi
+Hi , I'm Jevale Vaishnavi
 A passionate Data Scientist from India.
 
 
